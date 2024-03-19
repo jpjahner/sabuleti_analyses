@@ -2,7 +2,7 @@
 
 This repo stores code and output for a manuscript project related to the population genetics of the bleached sandhill skipper (*Polites sabuleti sinemaculata*)
 
-**Working title: TBD**
+**Working title: Genome-wide variation unravels the complicated taxonomic history of the sandhill skipper and gives hope for future management**
 
 Joshua P. Jahner, Lara Enders, Cynthia F. Scholl, Kevin J. Burls, Cas F. Carroll, Christopher A. Halsch, Samson Stynen, Matthew L. Forister
 
